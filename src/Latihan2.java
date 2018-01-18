@@ -18,6 +18,7 @@ public class Latihan2 {
         double bonus;
         int bilpelanggan;
         
+System.out.print("Selamat datang");
 System.out.print("Masukkan bilangan pelanggan=");
 bilpelanggan=input.nextInt();
 
